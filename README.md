@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats:
 
-![Soha's GitHub Stats](https://github-readme-stats.vercel.app/api?Sooooh2=Sooooh2&show_icons=true&theme=radical)
+![Soha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sooooh2&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sooooh2&layout=compact&theme=radical)
 
 ---
