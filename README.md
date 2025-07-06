@@ -9,7 +9,8 @@
 🧑‍🎓 Computer Science Student  
 🎮 In-Progress Game Developer | Comfortable with **Godot (GDScript)**,  **Unreal Engine (Blueprints)** and **2D/3D game design**  
 ✨ Exploring **Shaders**, **Procedural Generation**, and **Gameplay Systems**  
-📦 Learning full-stack development with **JavaScript**, and **Node.js**
+📦 Learning full-stack development with **JavaScript**, and **Node.js**    
+
 🖌️ Practicing **3D Modeling** & **Animation** in **Blender**  
 📓 Documenting my journey through **devlogs**, **blogs**, and small **project experiments**
 
